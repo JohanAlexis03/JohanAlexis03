@@ -2,6 +2,10 @@
 <h3 align="center">Estudiante de Ingeniería de Software | Técnico en Sistemas</h3>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work%20%26%20Collaboration-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Open to Work" />
+</p>
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=Bienvenido%20a%20mi%20perfil%20🚀&fontSize=40&animation=fadeIn" alt="Header" />
 </p>
 
@@ -46,6 +50,25 @@
   <img src="https://img.shields.io/badge/Cisco%20Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
 </p>
+
+---
+
+### 🚀 Proyectos Destacados
+
+<table width="100%" border="0">
+  <tr>
+    <td width="50%" align="center" style="border: none;">
+      <a href="https://github.com/JohanAlexis03/MediGuest" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=JohanAlexis03&repo=MediGuest&theme=radical&hide_border=true" width="100%" alt="MediGuest" />
+      </a>
+    </td>
+    <td width="50%" align="center" style="border: none;">
+      <a href="https://github.com/JohanAlexis03/UberCloneVersionConductor" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=JohanAlexis03&repo=UberCloneVersionConductor&theme=radical&hide_border=true" width="100%" alt="UberCloneVersionConductor" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
