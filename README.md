@@ -55,16 +55,17 @@
 
 ### 🚀 Proyectos Destacados
 
-<table width="100%" border="0">
+<table width="100%">
   <tr>
-    <td width="50%" align="center" valign="top" style="border: none;">
+    <td width="50%" align="center">
       <a href="https://github.com/JohanAlexis03/MediGuest" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=JohanAlexis03&repo=MediGuest&theme=radical&hide_border=true" width="100%" alt="MediGuest" />
+        <img src="https://stardev.io/developers/JohanAlexis03/badges" style="display:none" />
+        <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=JohanAlexis03&repo=MediGuest&theme=radical&hide_border=true" width="100%" alt="MediGuest" />
       </a>
     </td>
-    <td width="50%" align="center" valign="top" style="border: none;">
+    <td width="50%" align="center">
       <a href="https://github.com/JohanAlexis03/UberCloneVersionConductor" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=JohanAlexis03&repo=UberCloneVersionConductor&theme=radical&hide_border=true" width="100%" alt="UberCloneVersionConductor" />
+        <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=JohanAlexis03&repo=UberCloneVersionConductor&theme=radical&hide_border=true" width="100%" alt="UberCloneVersionConductor" />
       </a>
     </td>
   </tr>
